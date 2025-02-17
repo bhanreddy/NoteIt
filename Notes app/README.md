@@ -4,11 +4,11 @@ A simple and efficient note-taking application to capture, organize, and manage 
 
 ## Features
 
-- 📝 Create, edit, and delete notes
-- 🔍 Search and filter notes
-- 📂 Categorize notes into folders
-- ☁️ Sync across devices (Upcoming feature)
-- 🎨 Light/Dark mode for better readability
+- Create, delete notes
+- Pin Notes , Archive notes
+- Dark Mode for Better Readability (upcoming Feature)
+- Sync across devices (Upcoming feature)
+-
 
 ## Installation
 
