@@ -6,7 +6,10 @@ Create, delete notes
 Pin Notes , Archive notes
 Dark Mode for Better Readability (upcoming Feature)
 Sync across devices (Upcoming feature)
+
+
 Installation
+
 Clone the repository:
 
 git clone https://github.com/bhanreddy/NoteIt-app.git
@@ -24,9 +27,8 @@ Start the application:
 npm start
 
 Usage
-Open the app and start taking notes.
-Use search to quickly find notes.
-Organize notes into folders for easy access.
+Open the app and start taking note.
+You can retrive the deleted Notes.
 Tech Stack
 Frontend: Html, CSS
 Backend: js
