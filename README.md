@@ -26,6 +26,8 @@ Start the application:
 
 npm start
 
+
+
 Usage
 Open the app and start taking note.
 You can retrive the deleted Notes.
