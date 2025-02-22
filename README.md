@@ -1,6 +1,8 @@
 NoteIt App
 A simple and efficient note-taking application to capture, organize, and manage your thoughts effortlessly.
 
+
+
 Features
 Create, delete notes
 Pin Notes , Archive notes
