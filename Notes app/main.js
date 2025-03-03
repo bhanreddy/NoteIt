@@ -1,7 +1,5 @@
 import {renderNotes} from "/app.js";
 
-
-
 let note = document.querySelector(".note");
 let title = document.querySelector(".title");
 let addNoteButton = document.querySelector(".add-btn");
@@ -46,6 +44,7 @@ notesDisplay.addEventListener("click",(event)=>{
             break;
 
     }
+
 });
 
 
