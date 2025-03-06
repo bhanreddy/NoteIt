@@ -17,7 +17,7 @@ Clone the repository:
 git clone https://github.com/bhanreddy/NoteIt-app.git
 
 Navigate to the project directory:
-
+ 
 cd NoteIt-app
 
 Install dependencies:
